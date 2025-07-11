@@ -1,5 +1,4 @@
-![alt text](other/Alcon-Emblem.png) 
-# Alcon iol visual outcomes
+# <img src="Other/Alcon-Emblem.png" alt="alt text"  height="70"> Alcon iol visual outcomes
 
 
 [![repo_lang](https://skillicons.dev/icons?i=python)](#)
