@@ -1,5 +1,3 @@
-
-
 # <img src="Other/Alcon-Emblem.png" alt="alt text"  height="70"> Alcon iol visual outcomes
 
 
