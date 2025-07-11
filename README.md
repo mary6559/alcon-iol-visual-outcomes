@@ -1,4 +1,4 @@
-![alt text](Other/Alcon-Emblem.png) 
+![alt text](other/Alcon-Emblem.png) 
 # Alcon iol visual outcomes
 
 
